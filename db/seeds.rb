@@ -9,3 +9,15 @@ Book.create!([
   { name: 'Copying and Pasting from Stack Overflow' },
   { name: 'Trying Stuff Until it Works' }
 ])
+
+employee.create!([
+    {
+        name:'fedi',
+        email:'fedio70@gmail.com',
+        start_date:'anytime',
+        end_date: 'undefined'
+        
+        
+        
+    }
+])
